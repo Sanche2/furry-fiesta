@@ -1,9 +1,10 @@
 // Esto Es Una Prueba
-
-public static void main(String []args){
-int [] a;
-a = [1,2,3,4,5,6,7];
-for(int i = a.lenght(); i >= 0; i--){
-  System.out.println("Secuencia Numérica : " + a[i]);
-}
+public class Lokiiis{
+  public static void main(String []args){
+    int [] a;
+    a = [1,2,3,4,5,6,7];
+    for(int i = a.lenght(); i >= 0; i--){
+      System.out.println("Secuencia Numérica : " + a[i]);
+    }
+  }
 }
